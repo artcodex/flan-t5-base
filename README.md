@@ -100,7 +100,7 @@ datasets:
 license: apache-2.0
 ---
 
-# Model Card for FLAN-T5 large
+# Model Card for FLAN-T5 small
 
 ![model image](https://s3.amazonaws.com/moonup/production/uploads/1666363435475-62441d1d9fdefb55a0b7d12c.png)
 
