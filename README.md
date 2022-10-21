@@ -65,8 +65,12 @@ tags:
 - text2text-generation
 
 widget:
-- text: "Is this review positive or negative? Review: Best cast iron skillet you will ever buy."
-  example_title: "Sentiment analysis"
+- text: "Translate to German:  My name is Arthur"
+  example_title: "Translation"
+- text: "Please answer to the following question. Who is going to be the next ‘Ballon d'or’?"
+  example_title: "Question Answering"
+- text: "Answer the following question by reasoning step-by-step. The cafeteria had 23 apples. If they used 20 for lunch and bought 6 more, how many apples do they have?"
+  example_title: "Logic puzzles"
 
 datasets:
 - svakulenk0/qrecc
