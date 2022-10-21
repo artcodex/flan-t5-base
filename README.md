@@ -64,6 +64,10 @@ language:
 tags:
 - text2text-generation
 
+widget:
+- text: "Is this review positive or negative? Review: Best cast iron skillet you will ever buy."
+  example_title: "Sentiment analysis"
+
 datasets:
 - svakulenk0/qrecc
 - taskmaster2
