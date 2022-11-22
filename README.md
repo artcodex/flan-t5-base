@@ -63,7 +63,6 @@ language:
 
 tags:
 - text2text-generation
-- text-generation
 
 widget:
 - text: "Translate to German:  My name is Arthur"
